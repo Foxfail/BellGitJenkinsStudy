@@ -11,4 +11,9 @@ public class Tests {
     public void seeTest() {
         System.out.println("hello world");
     }
+
+    @Test()
+    public void secondTest() {
+        System.out.println("hello world123");
+    }
 }
