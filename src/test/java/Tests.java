@@ -18,7 +18,7 @@ public class Tests {
     }
 
     @Test()
-    public void coflictTest() {
-        System.out.println("hello world123");
+    public void thirdTest() {
+        System.out.println("hello world123123");
     }
 }
