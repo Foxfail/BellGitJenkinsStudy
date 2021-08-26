@@ -16,4 +16,9 @@ public class Tests {
     public void secondTest() {
         System.out.println("hello world123");
     }
+
+    @Test()
+    public void thirdTest() {
+        System.out.println("hello world123123");
+    }
 }
