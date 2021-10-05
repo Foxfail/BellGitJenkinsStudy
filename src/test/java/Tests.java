@@ -24,7 +24,6 @@ public class Tests {
 
     @Test()
     public void test4() {
-        // todo привести в порядок этот проект
         System.out.println("hello 42");
     }
 }
