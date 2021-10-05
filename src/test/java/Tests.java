@@ -21,4 +21,10 @@ public class Tests {
     public void thirdTest() {
         System.out.println("hello world123123");
     }
+
+    @Test()
+    public void test4() {
+        // todo привести в порядок этот проект
+        System.out.println("hello 42");
+    }
 }
