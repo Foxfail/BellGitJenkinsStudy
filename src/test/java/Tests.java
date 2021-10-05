@@ -21,4 +21,9 @@ public class Tests {
     public void thirdTest() {
         System.out.println("hello world123123");
     }
+
+    @Test()
+    public void test4() {
+        System.out.println("hello 42");
+    }
 }
