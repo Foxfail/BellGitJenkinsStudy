@@ -24,6 +24,6 @@ public class Tests {
 
     @Test()
     public void test4() {
-        System.out.println("hello 42");
+        System.out.println("hello 28");
     }
 }
