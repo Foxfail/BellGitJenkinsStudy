@@ -29,7 +29,7 @@ public class Tests {
 
     @Test()
     public void test5() {
-        System.out.println("hello 5");
+        System.out.println("hello 6");
     }
 
 }
