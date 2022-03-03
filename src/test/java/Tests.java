@@ -34,7 +34,7 @@ public class Tests {
 
     @Test()
     public void test6() {
-        System.out.println("hello 12");
+        System.out.println("hello 123");
     }
 
 }
