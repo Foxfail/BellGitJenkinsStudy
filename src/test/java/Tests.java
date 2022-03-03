@@ -32,4 +32,9 @@ public class Tests {
         System.out.println("hello 6");
     }
 
+    @Test()
+    public void test6() {
+        System.out.println("hello 12");
+    }
+
 }
