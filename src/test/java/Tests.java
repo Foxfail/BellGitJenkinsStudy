@@ -37,4 +37,10 @@ public class Tests {
         System.out.println("hello 123");
     }
 
+    @Test()
+    public void test7() {
+        System.out.println("hello 7");
+    }
+
+
 }
