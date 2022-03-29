@@ -39,7 +39,7 @@ public class Tests {
 
     @Test()
     public void test7() {
-        System.out.println("hello7");
+        System.out.println("hello 7");
     }
 
 
