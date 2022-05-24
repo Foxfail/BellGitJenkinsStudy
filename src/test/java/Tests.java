@@ -24,7 +24,7 @@ public class Tests {
 
     @Test()
     public void test4() {
-        System.out.println("hello 28");
+        System.out.println("hello 42");
     }
 
     @Test()
@@ -33,10 +33,14 @@ public class Tests {
     }
 
     @Test()
-    public void test577777() {
-        System.out.println("hello 6");
+    public void test6() {
+        System.out.println("hello 123");
     }
 
+    @Test()
+    public void test7() {
+        System.out.println("hello 7");
+    }
 
 
 }
