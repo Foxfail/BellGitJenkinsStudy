@@ -42,5 +42,8 @@ public class Tests {
         System.out.println("hello 7");
     }
 
-
+    @Test()
+    public void test8() {
+        System.out.println("hello 9");
+    }
 }
