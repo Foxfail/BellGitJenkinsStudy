@@ -46,4 +46,9 @@ public class Tests {
     public void test8() {
         System.out.println("hello 9");
     }
+    
+    @Test()
+    public void test9() {
+        System.out.println("Test 9");
+    }
 }
