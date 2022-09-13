@@ -51,4 +51,10 @@ public class Tests {
     public void test9() {
         System.out.println("Test9");
     }
+
+    @Test()
+    public void test10() {
+        System.out.println("Test9");
+    }
+
 }
