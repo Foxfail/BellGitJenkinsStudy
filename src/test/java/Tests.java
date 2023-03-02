@@ -54,6 +54,6 @@ public class Tests {
 
     @Test()
     public void test10() {
-        System.out.println("Test 10 branch1");
+        System.out.println("Test10 branch2");
     }
 }
