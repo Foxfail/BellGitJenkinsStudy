@@ -56,4 +56,9 @@ public class Tests {
     public void test10() {
         System.out.println("Test10 branch2");
     }
+
+    @Test()
+    public void test11() {
+        System.out.println("Test 11");
+    }
 }
