@@ -64,6 +64,6 @@ public class Tests {
 
     @Test()
     public void test12() {
-        System.out.println("Test 12 Test 12");
+        System.out.println("Test 12");
     }
 }
