@@ -71,4 +71,9 @@ public class Tests {
     public void test13() {
         System.out.println("13");
     }
+
+    @Test()
+    public void test14() {
+        System.out.println("14");
+    }
 }
