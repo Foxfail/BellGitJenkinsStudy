@@ -66,4 +66,9 @@ public class Tests {
     public void test12() {
         System.out.println("Test 12");
     }
+
+    @Test
+    public void test13() {
+        System.out.println("Test13 is here now");
+    }
 }
