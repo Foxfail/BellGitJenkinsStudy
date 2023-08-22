@@ -73,6 +73,11 @@ public class Tests {
     }
     @Test()
     public void test14() {
-        System.out.println("Test     13");
+        System.out.println("Test 13");
+    }
+
+    @Test()
+    public void test15() {
+        System.out.println("14");
     }
 }
