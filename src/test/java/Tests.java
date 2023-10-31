@@ -80,4 +80,9 @@ public class Tests {
     public void test15() {
         System.out.println("14");
     }
+
+    @Test()
+    public void test16() {
+        System.out.println("16");
+    }
 }
