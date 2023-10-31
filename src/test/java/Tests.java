@@ -90,4 +90,9 @@ public class Tests {
     public void test17() {
         System.out.println("17");
     }
+
+    @Test()
+    public void test18() {
+        System.out.println("18_1");
+    }
 }
