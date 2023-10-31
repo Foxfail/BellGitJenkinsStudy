@@ -93,6 +93,6 @@ public class Tests {
 
     @Test()
     public void test18() {
-        System.out.println("18_1");
+        System.out.println("18_1 18_2");
     }
 }
