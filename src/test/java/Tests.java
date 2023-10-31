@@ -85,4 +85,9 @@ public class Tests {
     public void test16() {
         System.out.println("116");
     }
+
+    @Test()
+    public void test17() {
+        System.out.println("17");
+    }
 }
