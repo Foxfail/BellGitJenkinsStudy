@@ -100,5 +100,6 @@ public class Tests {
     public void test19() {
         System.out.println("19");
         System.out.println("21");
+        System.out.println("22");
     }
 }
