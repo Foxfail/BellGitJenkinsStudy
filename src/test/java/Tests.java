@@ -99,7 +99,7 @@ public class Tests {
     @Test()
     public void test19() {
         System.out.println("19");
-        System.out.println("22");
+        System.out.println("20");
         System.out.println("23");
     }
 }
