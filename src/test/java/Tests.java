@@ -95,4 +95,10 @@ public class Tests {
     public void test18() {
         System.out.println("18_1 18_2");
     }
+
+    @Test()
+    public void test19() {
+        System.out.println("19");
+        System.out.println("19");
+    }
 }
