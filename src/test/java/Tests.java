@@ -103,4 +103,9 @@ public class Tests {
         System.out.println("20");
         System.out.println("23");
     }
+
+    @Test()
+    public void test20() {
+        System.out.println("20");
+    }
 }
