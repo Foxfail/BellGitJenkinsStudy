@@ -99,5 +99,6 @@ public class Tests {
     @Test()
     public void test19() {
         System.out.println("19");
+        System.out.println("19");
     }
 }
