@@ -93,7 +93,7 @@ public class Tests {
 
     @Test()
     public void test18() {
-        System.out.println("18_1 18_2");
+        System.out.println("18_1dafad 18_2");
     }
 
     @Test()
@@ -106,6 +106,11 @@ public class Tests {
 
     @Test()
     public void test20() {
+        System.out.println("20");
+    }
+
+    @Test()
+    public void test21() {
         System.out.println("20");
     }
 }
