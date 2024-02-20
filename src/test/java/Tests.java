@@ -108,4 +108,9 @@ public class Tests {
     public void test20() {
         System.out.println("20");
     }
+
+    @Test()
+    public void test21() {
+        System.out.println("20");
+    }
 }
