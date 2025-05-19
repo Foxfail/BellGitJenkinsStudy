@@ -113,4 +113,14 @@ public class Tests {
     public void test21() {
         System.out.println("20");
     }
+
+    @Test()
+    public void test107() {
+        System.out.println("107");
+    }
+
+    @Test()
+    public void test108() {
+        System.out.println("1082");
+    }
 }
