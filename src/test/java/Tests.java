@@ -121,6 +121,6 @@ public class Tests {
 
     @Test()
     public void test108() {
-        System.out.println("108вапваыпвапвап");
+        System.out.println("108");
     }
 }
